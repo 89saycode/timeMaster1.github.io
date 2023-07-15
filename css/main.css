@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+div, a, input{
+    color: #FFF;
+}
+
+li{
+    list-style-type: none;
+}
+
+input{
+    border: none;
+}
+
+input:focus {
+    outline: none;
+}
